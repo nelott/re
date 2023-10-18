@@ -1,0 +1,24 @@
+宝！！今天是【{{date.DATA}}】！
+小甜甜，今天也要齁甜嗷⚈₃⚈
+
+真了不起呢，已经活了{{love_day.DATA}}天啦！
+┗|｀O′|┛ 嗷~~
+
+今天【{{weather.DATA}}】了诶，下班去哪儿玩儿捏
+日出在{{sunrise.DATA}}，
+别错过{{sunset.DATA}}点的晚霞哦~~
+
+最低气温：{{min_temp.DATA}} 
+最高气温：{{max_temp.DATA}}
+
+空气质量： 【{{category.DATA}}】
+PM2.5含量： 【{{pm2p5.DATA}}】
+
+每日一舔：{{chp.DATA}}
+我说{{region.DATA}}，不准凶我家甜甜！
+
+爱你（づ￣3￣）づ╭❤～
+
+{{note_en.DATA}} 
+{{note_ch.DATA}} 
+
